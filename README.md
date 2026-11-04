@@ -1,5 +1,5 @@
 
-# Build a Trusted Sales Data Pipeline
+# Trusted Sales Data Pipeline
 
 This Python-based data pipeline transforms messy transactional sales records into validated, high-quality data. It ensures absolute data consistency and automatically outputs structured analysis reports and regional visualizations.
 
